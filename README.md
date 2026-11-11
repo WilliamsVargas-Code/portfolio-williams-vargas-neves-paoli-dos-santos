@@ -30,10 +30,12 @@ Também possuo conhecimentos básicos sobre Interface do Usuário (UI) utilizand
 ### 🛠 Minhas Ferramentas Favoritas
 
 #### 👨‍💻 Experiência com OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#)
  
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff)
 
 #### 🔨 Editores de código
 ![p5js Editor](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
@@ -51,9 +53,11 @@ Também possuo conhecimentos básicos sobre Interface do Usuário (UI) utilizand
 
 
 
-### 📂 Portfólio de Projetos
+## 📂 Portfólio de Projetos
 
-#### Programação de Computadores 🖥️ **PYTHON** 🐍
+### Programação de Computadores 🖥️ 
+
+**PYTHON** 🐍
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **1. Algoritmo de Auditoria de dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/auditoria-de-dados.py) |
@@ -64,4 +68,11 @@ Também possuo conhecimentos básicos sobre Interface do Usuário (UI) utilizand
 | **6. Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Emoji](./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-1.py) [Biblioteca Músical](./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-2.py) [Receita](./projeto-desenhando-emojis-com-dados/desenhando_emojis_com_dados-3.py) |
 | **7. Sistema de Auditoria de Recursos Corporativos** | Sistema backend desenvolvido em Python para cálculo e auditoria de orçamentos corporativos em estruturas hierárquicas complexas. O projeto utiliza recursão para navegação em árvores de dados, decorators para auditoria de execução, empacotamento de argumentos (*args e **kwargs) para regras dinâmicas de negócio, além de suporte à conversão de câmbio e rastreabilidade do processamento. | [Sistema](./projeto-sistema-de-auditoria-de-recursos-corporativos/sistema_auditoria.py) |
 
+
 ---
+
+
+
+---
+
+
