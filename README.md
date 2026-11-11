@@ -11,15 +11,19 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente estou cursando o 1º semestre de Ciência da Computação na Universidade Cidade de São Paulo (UNICID). Tenho grande interesse em utilizar a tecnologia para resolver problemas do dia a dia e estou focado em aprender e desenvolver aplicativos, sites e também jogos digitais.
+Atualmente curso o 2º semestre de Ciência da Computação na Universidade Cidade de São Paulo (UNICID). Tenho grande interesse em utilizar a tecnologia para resolver problemas do dia a dia e estou focado no aprendizado e desenvolvimento de aplicativos, sites e jogos digitais.
 
-Possuo experiência com o sistema operacional Windows, desde a versão 7 até a 11, além de conhecimentos no uso de ferramentas da Microsoft, como PowerPoint, Excel e Word, que utilizo com frequência para estudos e organização de tarefas.
-Também tenho familiaridade com diversos modelos de Inteligência Artificial, como ChatGPT, Microsoft Copilot (também incluido no Github), Claude AI, e Gemini, que uso como apoio para aprendizado, criação de ideias e desenvolvimento de projetos.
-Possuo conhecimentos básicos na linguagem de programação Python, que venho desenvolvendo aos poucos durante meus estudos. Além disso, já tive contato com JavaScript por meio da plataforma p5.js, onde pude entender na prática alguns conceitos de programação e lógica, criando pequenos projetos e experimentos.
+Possuo experiência com o sistema operacional Windows, desde a versão 7 até a 11, além de conhecimentos no uso das principais ferramentas da Microsoft, como Word, Excel e PowerPoint, que utilizo frequentemente para estudos, organização e produtividade.
 
-Minha principal ferramenta de programação é o Visual Studio Code, que utilizo na maioria dos meus projetos por ser leve, prático e bastante versátil. No entanto, quando trabalho com a linguagem Python, costumo utilizar o PyCharm, pois ele oferece recursos mais específicos que facilitam o desenvolvimento e a organização do código.
+Tenho conhecimentos em desenvolvimento web utilizando HTML, CSS e JavaScript, aplicados na criação de páginas e interfaces responsivas. Meu contato inicial com JavaScript aconteceu por meio da plataforma p5.js, onde desenvolvi pequenos projetos para praticar lógica de programação e conceitos fundamentais da linguagem. Atualmente, também utilizo JavaScript em projetos desenvolvidos no Visual Studio Code, ampliando meus conhecimentos na construção de aplicações web e recursos interativos.
 
-Também possuo conhecimentos básicos sobre Interface do Usuário (UI) utilizando a ferramenta Figma. Por meio dela, já criei alguns protótipos simples, porém funcionais, o que me ajudou a entender melhor como planejar a aparência e a organização de um aplicativo ou site de forma prática.
+Possuo conhecimentos básicos em Python, linguagem que continuo estudando e aprimorando durante minha formação acadêmica. Para desenvolvimento, utilizo principalmente o Visual Studio Code, por sua versatilidade e ampla compatibilidade com diferentes tecnologias. Em projetos Python, também faço uso do PyCharm, aproveitando suas ferramentas específicas para desenvolvimento e organização do código.
+
+Além da programação, possuo experiência inicial com Banco de Dados, compreendendo conceitos fundamentais como armazenamento, organização e consulta de informações, bem como a estruturação de dados em tabelas e relacionamentos. Tenho interesse em aprofundar meus conhecimentos nessa área à medida que avanço nos estudos.
+
+Também possuo conhecimentos básicos sobre Interface do Usuário (UI) utilizando o Figma, ferramenta com a qual já desenvolvi protótipos simples e funcionais. Essa experiência permitiu compreender melhor aspectos relacionados à experiência do usuário, organização visual e planejamento de interfaces para aplicações e websites.
+
+Além disso, tenho familiaridade com diversas ferramentas de Inteligência Artificial, como ChatGPT, Microsoft Copilot, Claude AI e Gemini, que utilizo como apoio para aprendizado, pesquisa, geração de ideias e desenvolvimento de projetos.
  
 * **Habilidades Técnicas:** Python.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
