@@ -77,8 +77,15 @@ Além disso, tenho familiaridade com diversas ferramentas de Inteligência Artif
 
 ---
 
+**FRONT-END WEB** 💻
 
-
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **1. Site com opções de acessibilidade e comprometimento de orçamento verde** | Um site de academia de artes marciais que conta com diversas opções de acessibilidade, visando inclusão de PCDs e sustentabilidade | [Ver Projeto](./U-UNICID-CC-FRONTEND-2260022-N7-2-2026-NT-BASEFORTELESTE-main) |
 ---
 
+**BANCO DE DADOS E SQL** 🎲
 
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **1. Documentação de Banco de Dados e implementação SQL** | Documentação completa de um Banco de Dados de uma academia de artes marciais e um script que roda no MYSQL | [Ver Projeto](./Readme_academia-main) |
