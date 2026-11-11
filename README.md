@@ -19,15 +19,15 @@ Tenho conhecimentos em desenvolvimento web utilizando HTML, CSS e JavaScript, ap
 
 Possuo conhecimentos básicos em Python, linguagem que continuo estudando e aprimorando durante minha formação acadêmica. Para desenvolvimento, utilizo principalmente o Visual Studio Code, por sua versatilidade e ampla compatibilidade com diferentes tecnologias. Em projetos Python, também faço uso do PyCharm, aproveitando suas ferramentas específicas para desenvolvimento e organização do código.
 
-Além da programação, possuo experiência inicial com Banco de Dados, compreendendo conceitos fundamentais como armazenamento, organização e consulta de informações, bem como a estruturação de dados em tabelas e relacionamentos. Tenho interesse em aprofundar meus conhecimentos nessa área à medida que avanço nos estudos.
+Possuo conhecimentos básicos em Banco de Dados Relacionais, com experiência inicial na utilização de SQL para consultas e manipulação de dados. Também tive contato com o MySQL, onde aprendi conceitos como criação de tabelas, relacionamentos entre entidades e execução de comandos básicos para gerenciamento de informações. Atualmente, continuo expandindo meus conhecimentos na área por meio dos estudos acadêmicos e projetos práticos.
 
 Também possuo conhecimentos básicos sobre Interface do Usuário (UI) utilizando o Figma, ferramenta com a qual já desenvolvi protótipos simples e funcionais. Essa experiência permitiu compreender melhor aspectos relacionados à experiência do usuário, organização visual e planejamento de interfaces para aplicações e websites.
 
 Além disso, tenho familiaridade com diversas ferramentas de Inteligência Artificial, como ChatGPT, Microsoft Copilot, Claude AI e Gemini, que utilizo como apoio para aprendizado, pesquisa, geração de ideias e desenvolvimento de projetos.
  
-* **Habilidades Técnicas:** Python.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Projetos que testam meu aprendizado ao longo do curso.
+* **Habilidades Técnicas:** Python, HTML, CSS, Javascript, SQL.
+* **Habilidades Socioemocionais:** Trabalho em equipe, aprendizado rápido e pensamento crítico.
+* **Experiência/Projetos Relevantes:** Projetos de site e banco de dados que testam meu aprendizado ao longo do curso.
  
 ---
  
@@ -40,10 +40,12 @@ Além disso, tenho familiaridade com diversas ferramentas de Inteligência Artif
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
 #### 🔨 Editores de código
 ![p5js Editor](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
 #### 🖥️ Interface e Jornada do Usuário
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
